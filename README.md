@@ -1,5 +1,7 @@
 # EscrowContracts
 
+Smart contracts are under development and are not yet available for production use.
+
 Try running some of the following tasks:
 
 ```shell
